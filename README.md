@@ -1,5 +1,4 @@
 # Hi everyone!  👋
----
 I'm a beginner in programming and currently learning step by step.  
 
 ## 📚 About Me
