@@ -22,9 +22,8 @@ I'm a beginner in programming and currently learning step by step.
 - 🧩 Small practice projects  
 - 🧪 Experiments while learning  
 
----
 
-> 💡 **Tip**  
+> [!TIP]  
 > If you have any suggestions, improvements, or advice, feel free to let me know.  
 > I'm always open to learning! 😊  
 
